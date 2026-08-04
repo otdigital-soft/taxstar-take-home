@@ -1,0 +1,1 @@
+# Invoices domain blueprint
